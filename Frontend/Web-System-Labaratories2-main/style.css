@@ -1,0 +1,16 @@
+.btn{
+    text-decoration: none;
+    border : 3px solid blue; padding: 10px; border-radius: 10px; color: blue;
+}
+.btn:hover{
+    background-color: blue;
+    color:aqua;
+}
+@font-face{
+    font-family: manrope;
+    src: url('Manrope-VariableFont_wght.ttf');
+}
+
+body{
+    font-family: manrope;
+}
