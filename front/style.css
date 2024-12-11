@@ -30,10 +30,6 @@ body {
     color: #fff;
 }
 
-
-
-
-
 /* Header styling */
 header {
     position: fixed;
@@ -54,10 +50,6 @@ header {
     margin-left: 200px;
     padding: 80px 20px; 
 }
-
-
-
-
 #h1{
     font-family: cursive;
 }
@@ -135,6 +127,5 @@ input[type="text"] {
 
 .add-button,
 .edit-button {
-    float: right
-    
+    float: right 
 }
